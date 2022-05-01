@@ -1,0 +1,24 @@
+
+/* If the screen size is 768px or less*/
+@media only screen and (max-width: 768px) {
+   
+    body{
+        width: 100%;
+    }
+
+    #mainBody{
+        float: left;
+        width: 100%;
+        border: solid 1px  #f1c40f;
+    }
+
+    #aside{
+        float:right;
+        border: solid 1px  #f1c40f;
+        margin-left: 1%;
+        width: 100%;
+    
+    }
+    
+
+}
