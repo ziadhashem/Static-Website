@@ -3,6 +3,11 @@
 A clean and responsive static website built with pure **HTML5** and **CSS3**.  
 Great for a personal profile, small business, or any simple online presence.
 
+## 📸 Preview
+![Screenshot 2025-06-24 011506](https://github.com/user-attachments/assets/b23317d7-2bfe-4cce-9e27-3a0c0f65f2b7)
+
+---
+
 👉 **Live Demo:** [https://ziadhashem.github.io/Static-Website/](https://ziadhashem.github.io/Static-Website/)
 
 ---
@@ -26,10 +31,6 @@ It's ideal as a boilerplate or starting point for static sites.
 - 📱 Mobile-friendly and responsive
 - 🎨 Custom CSS styles
 - 🌍 Deployed via GitHub Pages
-
----
-## 📸 Preview
-![Screenshot 2025-06-24 011506](https://github.com/user-attachments/assets/b23317d7-2bfe-4cce-9e27-3a0c0f65f2b7)
 
 ---
 
